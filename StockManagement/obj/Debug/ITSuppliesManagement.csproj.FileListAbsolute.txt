@@ -1,0 +1,43 @@
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.exe.config
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.exe
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.pdb
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\MySql.Data.dll
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\MySql.Data.xml
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.Form1.resources
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.Properties.Resources.resources
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.CopyComplete
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.exe
+C:\Users\Owner\source\repos\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.pdb
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.exe.config
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.exe
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.pdb
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\MySql.Data.dll
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\Google.Protobuf.dll
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\MySql.Data.xml
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csprojAssemblyReference.cache
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.Form1.resources
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.Properties.Resources.resources
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.GenerateResource.cache
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.CoreCompileInputs.cache
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.CopyComplete
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.exe
+E:\OneDrive\working on project\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.pdb
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.exe.config
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.exe
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\ITSuppliesManagement.pdb
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\MySql.Data.dll
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\bin\Debug\MySql.Data.xml
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.Form1.resources
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.Properties.Resources.resources
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csproj.CopyComplete
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.exe
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.pdb
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.FormShowLocation.resources
+C:\Users\Owner\Desktop\ITSuppliesManagement\ITSuppliesManagement\obj\Debug\ITSuppliesManagement.csprojAssemblyReference.cache
